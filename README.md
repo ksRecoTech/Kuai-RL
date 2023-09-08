@@ -1,6 +1,6 @@
 # Wonderful-RL4Rec
 
-A list of resources about reinforcement learning solutions to recommender systems in Kuaishou Technology.
+A list of resources about RL4RS in Kuaishou Technology.
 
 ## Long Paper
 Cai, Qingpeng, et al. 
