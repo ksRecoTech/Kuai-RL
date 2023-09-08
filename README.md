@@ -2,7 +2,7 @@
 
 A list of resources in Kuaishou Technology about reinforcement learning solutions to recommender systems.
 
-## Paper List
+## Long Paper
 
 Liu, Ziru, et al. ["Multi-Task Recommendations with Reinforcement Learning."](https://arxiv.org/pdf/2302.03328.pdf) </br>
 Proceedings of the ACM Web Conference 2023. 
@@ -23,21 +23,22 @@ Keywords: latent action space, sequential recommendation, hyper-actor critic
 Xue, Wanqi, et al. 
 ["ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor."](https://arxiv.org/pdf/2206.02620.pdf) </br>
 International Conference on Learning Representations (ICLR), 2023.
-\[[code](https://www.dropbox.com/sh/btf0drgm99vmpfe/AADtkmOLZPQ0sTqmsA0f0APna?dl=0)\]
+\[[code](https://www.dropbox.com/sh/btf0drgm99vmpfe/AADtkmOLZPQ0sTqmsA0f0APna?dl=0)\] </br>
+Keywords: online action reconstruction, sequential recommendation
 
-Liu, Shuchang, et al. ["Generative Flow Network for Listwise Recommendation."](https://arxiv.org/pdf/2306.02239.pdf) <\br>
+Liu, Shuchang, et al. ["Generative Flow Network for Listwise Recommendation."](https://arxiv.org/pdf/2306.02239.pdf) </br>
 Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023.
 \[[code](https://github.com/CharlieMat/GFN4Rec)\] </br>
 Keywords: generative model, list-wise recommendation
 
 Xue, Wanqi, et al. 
-["PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement."](https://personal.ntu.edu.sg/boan/papers/KDD23_PrefRec.pdf)
+["PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement."](https://personal.ntu.edu.sg/boan/papers/KDD23_PrefRec.pdf) </br>
 SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
-\[[code](https://www.dropbox.com/sh/hgsqg5fabnvmp26/AABF-2dvarI_bdyygYEt5aw7a?dl=0)\]
+\[[code](https://www.dropbox.com/sh/hgsqg5fabnvmp26/AABF-2dvarI_bdyygYEt5aw7a?dl=0)\] </br>
+Keywords: reward learning, preference modeling, sequential recommendation
 
 
-
-## Workshops
+## Short Paper
 
 Cai, Qingpeng, et al. ["Reinforcing User Retention in a Billion Scale Short Video Recommender System."](https://arxiv.org/pdf/2302.01724.pdf) </br>
 In Companion Proceedings of the ACM Web Conference 2023 (WWW '23 Companion). </br>
@@ -45,6 +46,6 @@ Keywords: sparse and delayed label, retention optimization
 
 ## Contact
 
-Please let us know if you have any comment or want to contribute to this project ;)
+Please let us know through the following contacts if you have any comment:
 
 Email: reco_tech_hotline@kuaishou.com, liushuchang@kuaishou.com
