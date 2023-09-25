@@ -37,8 +37,8 @@ SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2023).
 Keywords: rlhf, preference modeling, sequential recommendation
 
 Zhao, Kesen, et al.
-["KuaiSim: A Comprehensive Simulator for Recommender Systems"](https://arxiv.org/pdf/2309.12645.pdf) <\br>
-NeurIPS 2023 Datasets and Benchmarks track. \[[code](https://github.com/CharlieMat/KRLBenchmark)\] <\br>
+["KuaiSim: A Comprehensive Simulator for Recommender Systems"](https://arxiv.org/pdf/2309.12645.pdf) </br>
+NeurIPS 2023 Datasets and Benchmarks track. \[[code](https://github.com/CharlieMat/KRLBenchmark)\] </br>
 Keywords: online simulator, list-wise recommendation, sequential recommendation, retention optimization
 
 
