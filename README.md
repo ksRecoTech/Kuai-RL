@@ -3,6 +3,7 @@
 A list of resources about RL4RS in Kuaishou Technology.
 
 ## Long Paper
+
 Cai, Qingpeng, et al. 
 ["Two-Stage Constrained Actor-Critic for Short Video Recommendation."](https://arxiv.org/pdf/2302.01680.pdf) </br>
 Proceedings of the ACM Web Conference 2023(WWW 2023).
@@ -23,7 +24,7 @@ Xue, Wanqi, et al.
 ["ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor."](https://arxiv.org/pdf/2206.02620.pdf) </br>
 International Conference on Learning Representations(ICLR), 2023.
 \[[code](https://www.dropbox.com/sh/btf0drgm99vmpfe/AADtkmOLZPQ0sTqmsA0f0APna?dl=0)\] </br>
-Keywords: offline rl, sequential recommendation
+Keywords: offline RL, sequential recommendation
 
 Liu, Shuchang, et al. ["Generative Flow Network for Listwise Recommendation."](https://arxiv.org/pdf/2306.02239.pdf) </br>
 Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2023).
@@ -35,6 +36,12 @@ Xue, Wanqi, et al.
 SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2023).
 \[[code](https://www.dropbox.com/sh/hgsqg5fabnvmp26/AABF-2dvarI_bdyygYEt5aw7a?dl=0)\] </br>
 Keywords: rlhf, preference modeling, sequential recommendation
+
+Gao, Chongming, et al. 
+["Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation."](https://arxiv.org/pdf/2307.04571.pdf) </br>
+Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR), 2023 
+\[[code](https://github.com/chongminggao/DORL-codes)\] </br>
+Keywords: offline RL, Matthew effect
 
 Zhao, Kesen, et al.
 ["KuaiSim: A Comprehensive Simulator for Recommender Systems"](https://arxiv.org/pdf/2309.12645.pdf) </br>
