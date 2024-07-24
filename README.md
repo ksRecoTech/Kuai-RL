@@ -2,7 +2,7 @@
 
 A list of resources about Reinforcement Learning works in Kuaishou Technology.
 
-## Representative Paper
+## Representative Papers
 1. ["Two-Stage Constrained Actor-Critic for Short Video Recommendation."](https://arxiv.org/pdf/2302.01680.pdf) </br>
 WWW 2023.
 \[[code](https://github.com/AIDefender/TSCAC)\] </br>
