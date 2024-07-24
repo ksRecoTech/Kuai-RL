@@ -1,59 +1,67 @@
-# Wonderful-RL4Rec
+# Kuai-RL
 
-A list of resources about RL4RS in Kuaishou Technology.
+A list of resources about Reinforcement Learning works in Kuaishou Technology.
 
-## Long Paper
-
-Cai, Qingpeng, et al. 
-["Two-Stage Constrained Actor-Critic for Short Video Recommendation."](https://arxiv.org/pdf/2302.01680.pdf) </br>
-Proceedings of the ACM Web Conference 2023(WWW 2023).
+## Representative Paper
+1. ["Two-Stage Constrained Actor-Critic for Short Video Recommendation."](https://arxiv.org/pdf/2302.01680.pdf) </br>
+WWW 2023.
 \[[code](https://github.com/AIDefender/TSCAC)\] </br>
-Keywords: multi-objective, main and auxiliary objectives, actor-critic
+Keywords: Constrained Reinforcement Learning
 
-Liu, Shuchang, et al. ["Exploration and Regularization of the Latent Action Space in Recommendation."](https://arxiv.org/pdf/2302.03431.pdf) </br>
-Proceedings of the ACM Web Conference 2023(WWW 2023). 
+2. ["Reinforcing User Retention in a Billion Scale Short Video Recommender System."](https://arxiv.org/pdf/2302.01724.pdf) </br>
+WWW 2023 Industry Track. </br>
+Keywords: Retention Optimization
+
+3. ["UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution."](https://arxiv.org/abs/2401.06470) </br>
+AAAI 2024.  </br>
+Keywords: Multi-agent Reinforcement Learning
+
+4. ["Future Impact Decomposition in Request-level Recommendations."](https://arxiv.org/abs/2401.16108)</br>
+KDD 2024. </br>
+Keywords: Reinforcement Learning for Request-level Recommendations
+
+5. ["Modeling User Retention through Generative Flow Networks."](https://arxiv.org/abs/2406.06043)</br>
+KDD 2024. </br>
+Keywords: GFlownets for Retention Optimization
+
+
+## Other Papers
+1. ["Exploration and Regularization of the Latent Action Space in Recommendation."](https://arxiv.org/pdf/2302.03431.pdf) </br>
+WWW 2023. 
 \[[code](https://github.com/CharlieMat/Hyper-Actor-Critic-for-Recommendation)\] </br>
-Keywords: latent action space, sequential recommendation, hyper-actor critic
+Keywords: Large Action Space
 
-Liu, Ziru, et al. ["Multi-Task Recommendations with Reinforcement Learning."](https://arxiv.org/pdf/2302.03328.pdf) </br>
-Proceedings of the ACM Web Conference 2023(WWW 2023). 
+2. ["Multi-Task Recommendations with Reinforcement Learning."](https://arxiv.org/pdf/2302.03328.pdf) </br>
+WWW 2023. 
 \[[code](https://github.com/Applied-Machine-Learning-Lab/RMTL)\] </br>
-Keywords: multi-task learning, xtr prediction
+Keywords: Multi-task Learning
 
-Xue, Wanqi, et al. 
-["ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor."](https://arxiv.org/pdf/2206.02620.pdf) </br>
-International Conference on Learning Representations(ICLR), 2023.
+3. ["ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor."](https://arxiv.org/pdf/2206.02620.pdf) </br>
+ICLR 2023.
 \[[code](https://www.dropbox.com/sh/btf0drgm99vmpfe/AADtkmOLZPQ0sTqmsA0f0APna?dl=0)\] </br>
-Keywords: offline RL, sequential recommendation
+Keywords: Offline Reinforcement Learning
 
-Liu, Shuchang, et al. ["Generative Flow Network for Listwise Recommendation."](https://arxiv.org/pdf/2306.02239.pdf) </br>
-Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2023).
+4. ["Generative Flow Network for Listwise Recommendation."](https://arxiv.org/pdf/2306.02239.pdf) </br>
+KDD 2023.
 \[[code](https://github.com/CharlieMat/GFN4Rec)\] </br>
-Keywords: generative model, list-wise recommendation
+Keywords: Gflownet for List-wise Recommendation
 
-Xue, Wanqi, et al. 
-["PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement."](https://personal.ntu.edu.sg/boan/papers/KDD23_PrefRec.pdf) </br>
-SIGKDD Conference on Knowledge Discovery and Data Mining(KDD 2023).
+5. ["PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-term User Engagement."](https://personal.ntu.edu.sg/boan/papers/KDD23_PrefRec.pdf) </br>
+KDD 2023.
 \[[code](https://www.dropbox.com/sh/hgsqg5fabnvmp26/AABF-2dvarI_bdyygYEt5aw7a?dl=0)\] </br>
-Keywords: rlhf, preference modeling, sequential recommendation
+Keywords: Learning from Preferences
 
-Gao, Chongming, et al. 
-["Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation."](https://arxiv.org/pdf/2307.04571.pdf) </br>
-Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval(SIGIR), 2023 
+6. ["Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation."](https://arxiv.org/pdf/2307.04571.pdf) </br>
+SIGIR 2023 
 \[[code](https://github.com/chongminggao/DORL-codes)\] </br>
-Keywords: offline RL, Matthew effect
+Keywords: Offline RL, Matthew effect
 
-Zhao, Kesen, et al.
-["KuaiSim: A Comprehensive Simulator for Recommender Systems"](https://arxiv.org/pdf/2309.12645.pdf) </br>
+7. ["KuaiSim: A Comprehensive Simulator for Recommender Systems"](https://arxiv.org/pdf/2309.12645.pdf) </br>
 NeurIPS 2023 Datasets and Benchmarks track. \[[code](https://github.com/CharlieMat/KRLBenchmark)\] </br>
-Keywords: online simulator, list-wise recommendation, sequential recommendation, retention optimization
+Keywords: Simulator
 
 
-## Short Paper
 
-Cai, Qingpeng, et al. ["Reinforcing User Retention in a Billion Scale Short Video Recommender System."](https://arxiv.org/pdf/2302.01724.pdf) </br>
-In Companion Proceedings of the ACM Web Conference 2023(WWW '23 Companion). </br>
-Keywords: retention optimization
 
 ## Contact
 
