@@ -50,7 +50,7 @@ Keywords: Decision Transformer for Rec
 AAAI 2025. </br>
 Keywords: LLM-based simulator for RL-based Rec
 
-12. ["AURO: Reinforcement Learning for Adaptive User Retention Optimization in Recommender Systems."]</br>
+12. ["AURO: Reinforcement Learning for Adaptive User Retention Optimization in Recommender Systems."]()</br>
 WWW 2025. </br>
 Keywords: RL for unstable environment
 
