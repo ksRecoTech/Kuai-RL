@@ -56,11 +56,11 @@ Keywords: RL for Adaptive Environment
 
 13. ["GAS: Generative Auto-bidding with Post-training Search."](https://arxiv.org/pdf/2412.17018)</br>
 WWW 2025. \[[code](https://github.com/yewen99/GAS_WWW-25/tree/main)\]</br>
-Keywords: Decision Transformer for Auto-bidding, Test-time Search
+Keywords: G4RL, Test-time Search
 
 14. ["Generative Auto-Bidding with Value-Guided Explorations."](https://arxiv.org/pdf/2412.17018)</br>
 SIGIR 2025. \[[code](https://github.com/Applied-Machine-Learning-Lab/GAVE)\]</br>
-Keywords: Decision Transformer for Auto-bidding, Guided Explorations
+Keywords: G4RL, Offline Guided Explorations
 
 
 
@@ -70,4 +70,4 @@ Keywords: Decision Transformer for Auto-bidding, Guided Explorations
 
 Please let us know through the following contacts if you have any comment:
 
-Email: caiqingpeng@kuaishou.com, liushuchang@kuaishou.com
+Email: caiqingpeng@kuaishou.com
